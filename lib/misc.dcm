@@ -1,0 +1,72 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS124S08
+D ADS124S0xLow-Power,Low-Noise,HighlyIntegrated,6- and 12-Channel,4-kSPS,24-Bit,Delta-SigmaADC with PGA and VoltageReference
+F https://www.ti.com/lit/ds/symlink/ads124s08.pdf
+$ENDCMP
+#
+$CMP ADuM2401
+D Quad-Channel Digital Isolator
+K digital isolator galvanic isopower
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM2400_2401_2402.pdf
+$ENDCMP
+#
+$CMP ADuM2402
+D Quad-Channel Digital Isolator
+K digital isolator galvanic isopower
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM2400_2401_2402.pdf
+$ENDCMP
+#
+$CMP ATSAM4LS_100PIN_TQFP
+D ATSAM ARM-based Flash MCU
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42023-ARM-Microcontroller-ATSAM4L-Low-Power-LCD_Datasheet.pdf
+$ENDCMP
+#
+$CMP DS3234
+D Extremely Accurate SPI Bus RTC with Integrated Crystal and SRAM
+K RTC
+F https://datasheets.maximintegrated.com/en/ds/DS3234.pdf
+$ENDCMP
+#
+$CMP INA21x
+F http://www.ti.com/lit/ds/symlink/ina215.pdf
+$ENDCMP
+#
+$CMP LTC1983
+D 100mA Regulated Charge-Pump Inverters in ThinSOT
+$ENDCMP
+#
+$CMP MAX3224
+D 1μA Supply Current, 1Mbps, 3.0V to 5.5V, RS-232 Transceivers with AutoShutdown Plus
+F https://datasheets.maximintegrated.com/en/ds/MAX3224-MAX3245.pdf
+$ENDCMP
+#
+$CMP MAX6043
+D Precision High-Voltage Reference in SOT23
+F https://www.maximintegrated.com/en/ds/MAX6043.pdf
+$ENDCMP
+#
+$CMP NXJ2
+D Isolated 2W Single Output SM DC-DC Converters
+F https://power.murata.com/pub/data/power/ncl/kdc_nxj2.pdf
+$ENDCMP
+#
+$CMP OPA192
+D Precision, Rail-to-Rail Input/Output, Low Offset Voltage,ow Input Bias Current Op Amp with e-trim, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa192.pdf
+$ENDCMP
+#
+$CMP OPA356xxDBV
+D Single High Speed CMOS Operational Amplifier, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa356.pdf
+$ENDCMP
+#
+$CMP TPS613221A
+D (3.3V) TPS61322 6.5-μA Quiescent current, 1.8-A switch current boost converter
+K 3.3V
+F http://www.ti.com/lit/ds/symlink/tps61322.pdf
+$ENDCMP
+#
+#End Doc Library
