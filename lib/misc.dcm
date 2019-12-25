@@ -17,6 +17,11 @@ K digital isolator galvanic isopower
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM2400_2401_2402.pdf
 $ENDCMP
 #
+$CMP ADuM6028
+D Low Emission, 5 kVIsolated DC-to-DC Converter (60mW)
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM6020-6028.pdf
+$ENDCMP
+#
 $CMP ATSAM4LS_100PIN_TQFP
 D ATSAM ARM-based Flash MCU
 F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42023-ARM-Microcontroller-ATSAM4L-Low-Power-LCD_Datasheet.pdf
