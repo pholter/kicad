@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 24AA025E48
+D 2Kb I2C Serial EEPROM with Pre-Programmed EUI-48™ MAC ID and Address Inputs
+F https://www.microchip.com/wwwproducts/en/24AA025E48
+$ENDCMP
+#
 $CMP ADS124S08
 D ADS124S0xLow-Power,Low-Noise,HighlyIntegrated,6- and 12-Channel,4-kSPS,24-Bit,Delta-SigmaADC with PGA and VoltageReference
 F https://www.ti.com/lit/ds/symlink/ads124s08.pdf
@@ -25,6 +30,10 @@ $ENDCMP
 $CMP ATSAM4LS_100PIN_TQFP
 D ATSAM ARM-based Flash MCU
 F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42023-ARM-Microcontroller-ATSAM4L-Low-Power-LCD_Datasheet.pdf
+$ENDCMP
+#
+$CMP D24V22F5
+D Pololu 5V, 2.5A Step-Down Voltage Regulator D24V22F5 (https://www.pololu.com/product/2858)
 $ENDCMP
 #
 $CMP DS3234
